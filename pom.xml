@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <spring.version>5.2.22.RELEASE</spring.version>
+        <spring.version>6.1.14</spring.version>
         <hibernate.version>5.4.24.Final</hibernate.version>
     </properties>
 
